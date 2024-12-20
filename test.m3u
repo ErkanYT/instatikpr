@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1, Medya Adı
+http://media-url.com/stream1.mp3
+#EXTINF:-1, Başka Bir Medya
+http://media-url.com/stream2.mp4
